@@ -1,0 +1,2 @@
+# StManSys
+Student Management System
